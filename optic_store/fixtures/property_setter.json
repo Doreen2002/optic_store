@@ -349,6 +349,6 @@
   "property": "search_fields",
   "property_type": "Data",
   "row_name": null,
-  "value": "customer_name,customer_group,territory, mobile_no,primary_address,os_loyalty_card_no,os_mobile_number,os_cpr_no"
+  "value": "customer_name,customer_group,territory, mobile_no,primary_address"
  }
 ]
